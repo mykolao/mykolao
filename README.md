@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&size=32&duration=2500&pause=1500&vCenter=true&width=435&lines=Hello%2C+I'm+Mykola+%F0%9F%91%8B;Web+Developer+%F0%9F%8C%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&size=34&duration=2500&pause=1500&vCenter=true&width=435&lines=Hello%2C+I'm+Mykola+%F0%9F%91%8B;Web+Developer+%F0%9F%8C%8F)](https://git.io/typing-svg)
 
-## ⚒ Technologies I use
+
+## ⚒ Technologies
 <p>
   <img src="https://user-images.githubusercontent.com/57754283/192165014-5696bd30-8648-479c-9e7e-031094560d4d.svg" alt="Javascript" height="48px" />
   &nbsp;
@@ -19,6 +20,7 @@
   <img src="https://user-images.githubusercontent.com/57754283/192165666-f7bacb10-1cb5-480f-b8f7-937b6585a2f2.svg" alt="Vite" height="48px" />
 </p>
 
+
 ## 🖥 Software
 <p>
   <img src="https://user-images.githubusercontent.com/57754283/192165914-b02b976f-fea5-47d8-8485-7fe433967c28.svg" alt="VSCode" height="48px" />
@@ -31,6 +33,7 @@
   &nbsp;
   <img src="https://user-images.githubusercontent.com/57754283/192166108-a704d620-6e79-401f-ab5d-1726f06dfa80.svg" alt="Postman" height="48px" />
 </p>
+
 
 ## ⚔️ Codewars
 <img src='https://www.codewars.com/users/mykolao/badges/large'>
